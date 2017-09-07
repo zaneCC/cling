@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="cdi-api-2.0" level="project" />
+    <orderEntry type="library" name="seamless-swing-1.1.1" level="project" />
+    <orderEntry type="library" name="seamless-xml-1.1.1" level="project" />
+    <orderEntry type="library" name="seamless-http-1.1.1" level="project" />
+    <orderEntry type="library" name="seamless-util-1.1.1" level="project" />
+    <orderEntry type="library" name="javax.inject-1" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty:jetty-server:8.1.12.v20130726" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty:jetty-servlet:8.1.12.v20130726" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty:jetty-client:8.1.12.v20130726" level="project" />
+    <orderEntry type="library" name="org.slf4j:slf4j-simple:1.7.21" level="project" />
+    <orderEntry type="library" name="com.koushikdutta.urlimageviewhelper:urlimageviewhelper:1.0.4" level="project" />
+    <orderEntry type="library" name="android" level="project" />
+  </component>
+</module>
